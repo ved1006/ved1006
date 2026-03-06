@@ -7,8 +7,6 @@
 - 🌱 I’m currently learning **Spring Boot and Microservices**
 
 - 📫 How to reach me **dangeved106@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/veddange/" target="blank"></a>
 </p>
