@@ -44,5 +44,5 @@ I'm a Computer Science student at **Thadomal Shahani Engineering College** focus
 </p>
 
 <p align="center">
-  <i>"Simplicity is the soul of efficiency."</i>
+  <i>"Make it work, then make it better"</i>
 </p>
